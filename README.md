@@ -1,1 +1,1 @@
-# staticpage
+# staticpage for BSGNETS.COM
